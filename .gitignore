@@ -1,0 +1,7 @@
+# Webstorm project files
+.idea
+*.iml
+out
+gen
+security
+package.json

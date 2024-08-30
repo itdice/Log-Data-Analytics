@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Log Data Analytics Page</title>
+    <link href="./styles.css" rel="stylesheet">
+</head>
+<body>
+<header>
+    <div class="main-logo">Log Data Analytics</div>
+    <div id="controls">
+        <input type="file" id="saveButton">
+        <div>
+            <button id="allLogsButton">전체 로그 보기</button>
+            <button id="recentLogsButton">최근 10개 로그 보기</button>
+        </div>
+    </div>
+</header>
+<main>
+    <div id="kernelLogs"></div>
+</main>
+<script type="module" src="./saveDataScript.js"></script>
+</body>
+</html>
