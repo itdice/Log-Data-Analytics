@@ -1,0 +1,39 @@
+# ================================================
+# AI 요약 기능을 만들기 위한 프롬프트
+# ================================================
+
+최근 로그 10개를 분석해서 3줄로 요약하는 기능을 만들려고 해.
+
+로그의 예시는 아래와 같아.
+```
+Aug 30 08:29:31 host08 kernel: FATAL: Booting Linux kernel ver
+Aug 30 09:10:15 host12 kernel: ERROR: Failed to load module ext4
+Aug 30 09:45:07 host02 kernel: WARNING: Low memory detected
+Aug 30 10:23:19 host15 kernel: INFO: Network interface eth0 up
+Aug 30 11:08:54 host20 kernel: DEBUG: Starting process ID 1234
+```
+
+javascript로 chatgpt api를 이용해 로그 데이터를 보내고 이를 3줄로 요약하는 기능을 어떻게 만들 수 있는지 알려줘.
+
+
+# ================================================
+# AI를 통해 가상의 로그 데이터를 남기기 위한 프롬프트
+# ================================================
+
+나는 시스템 커널 로그 데이터를 생성하고자 해.
+임의의 로그 데이터를 생성해서 웹 사이트를 만들어 보고자해.
+
+로그 데이터에는 아래와 같은 정보가 담겨 있어.
+
+1. 실행 시간
+2. 로그 레벨(FATAL, ERROR, WARNING, INFO, DEBUG)
+3. 로그 메시지
+4. 호스트 이름 (1~30 사이 숫자를 랜덤으로 정해줘)
+
+
+아래는 로그 데이터의 예시야
+
+Aug 30 08:29:31 host08 kernel: FATAL: Booting Linux kernel ver
+
+
+이거에 따라 예시 200개만 만들어줘.

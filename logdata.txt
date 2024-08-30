@@ -1,0 +1,229 @@
+Aug 30 08:29:31 host08 kernel: FATAL: Booting Linux kernel ver
+Aug 30 09:10:15 host12 kernel: ERROR: Failed to load module ext4
+Aug 30 09:45:07 host02 kernel: WARNING: Low memory detected
+Aug 30 10:23:19 host15 kernel: INFO: Network interface eth0 up
+Aug 30 11:08:54 host20 kernel: DEBUG: Starting process ID 1234
+Aug 30 12:30:47 host25 kernel: FATAL: Kernel panic - not syncing
+Aug 30 13:12:05 host17 kernel: ERROR: Unable to mount root fs
+Aug 30 14:44:32 host10 kernel: WARNING: Disk I/O error on sda1
+Aug 30 15:30:01 host03 kernel: INFO: USB device detected
+Aug 30 16:15:44 host05 kernel: DEBUG: Scheduling process ID 5678
+Aug 30 17:29:20 host13 kernel: FATAL: Unable to handle kernel paging request
+Aug 30 18:40:12 host18 kernel: ERROR: Swap space full
+Aug 30 19:05:33 host09 kernel: WARNING: CPU temperature high
+Aug 30 20:11:27 host04 kernel: INFO: Filesystem check complete
+Aug 30 21:55:16 host14 kernel: DEBUG: Process ID 8765 terminated
+Aug 30 22:22:58 host22 kernel: FATAL: Unable to allocate memory
+Aug 30 23:08:39 host19 kernel: ERROR: I/O failure on device sdb
+Aug 31 00:34:11 host07 kernel: WARNING: High network latency detected
+Aug 31 01:49:06 host06 kernel: INFO: System shutdown initiated
+Aug 31 02:57:24 host11 kernel: DEBUG: Kernel module loaded successfully
+Aug 31 03:13:52 host01 kernel: FATAL: System halted due to critical error
+Aug 31 04:20:43 host21 kernel: ERROR: Invalid memory access
+Aug 31 05:38:29 host23 kernel: WARNING: Unstable power supply detected
+Aug 31 06:44:55 host24 kernel: INFO: Kernel version 5.10.0 loaded
+Aug 31 07:15:38 host30 kernel: DEBUG: PCI device detected
+Aug 31 08:27:04 host28 kernel: FATAL: Disk read error on sdc
+Aug 31 09:05:17 host26 kernel: ERROR: Kernel module not found
+Aug 31 10:11:42 host16 kernel: WARNING: CPU 0 reported a hardware error
+Aug 31 11:55:19 host29 kernel: INFO: System clock synchronized
+Aug 31 12:34:03 host27 kernel: DEBUG: Process scheduling latency detected
+Aug 31 13:45:58 host06 kernel: FATAL: Kernel stack overflow
+Aug 31 14:19:21 host12 kernel: ERROR: Unable to resolve hostname
+Aug 31 15:33:49 host04 kernel: WARNING: Disk quota exceeded
+Aug 31 16:47:10 host15 kernel: INFO: Network connection established
+Aug 31 17:05:16 host13 kernel: DEBUG: Kernel configuration loaded
+Aug 31 18:22:14 host03 kernel: FATAL: Out of kernel resources
+Aug 31 19:30:44 host22 kernel: ERROR: Failed to initialize GPU
+Aug 31 20:45:29 host14 kernel: WARNING: System load average high
+Aug 31 21:15:38 host07 kernel: INFO: Device /dev/sda1 mounted
+Aug 31 22:25:41 host18 kernel: DEBUG: Process ID 2345 sleeping
+Aug 31 23:50:17 host11 kernel: FATAL: Kernel power failure
+Sep 01 00:05:33 host16 kernel: ERROR: Bad block detected on /dev/sdb
+Sep 01 01:12:47 host25 kernel: WARNING: File descriptor leak detected
+Sep 01 02:30:58 host21 kernel: INFO: Kernel buffer flushed
+Sep 01 03:45:15 host09 kernel: DEBUG: Kernel lock contention detected
+Sep 01 04:52:24 host26 kernel: FATAL: No space left on device
+Sep 01 05:10:31 host19 kernel: ERROR: Kernel heap corruption detected
+Sep 01 06:22:44 host17 kernel: WARNING: Memory fragmentation high
+Sep 01 07:30:09 host08 kernel: INFO: Kernel watchdog started
+Sep 01 08:42:18 host02 kernel: DEBUG: Context switch latency low
+Sep 01 09:53:24 host05 kernel: FATAL: Kernel panic - Rebooting
+Sep 01 10:15:50 host29 kernel: ERROR: Kernel thread failed to start
+Sep 01 11:28:11 host20 kernel: WARNING: Device /dev/sdc is overheating
+Sep 01 12:41:53 host30 kernel: INFO: System uptime 24 hours
+Sep 01 13:54:29 host10 kernel: DEBUG: Kernel heap usage below threshold
+Sep 01 14:05:06 host06 kernel: FATAL: Root file system corruption
+Sep 01 15:17:48 host18 kernel: ERROR: Kernel page table error
+Sep 01 16:22:32 host01 kernel: WARNING: High CPU usage on core 2
+Sep 01 17:35:29 host24 kernel: INFO: Kernel power management activated
+Sep 01 18:40:12 host14 kernel: DEBUG: IRQ balance daemon started
+Sep 01 19:52:55 host13 kernel: FATAL: Memory parity error detected
+Sep 01 20:15:41 host03 kernel: ERROR: Kernel task hung for 120 seconds
+Sep 01 21:28:34 host22 kernel: WARNING: CPU soft lockup detected
+Sep 01 22:45:02 host27 kernel: INFO: Kernel random number generator seeded
+Sep 01 23:50:17 host21 kernel: DEBUG: Kernel stack usage 75%
+Sep 02 00:04:29 host25 kernel: FATAL: Network stack overflow
+Sep 02 01:12:58 host19 kernel: ERROR: Kernel paging request failed
+Sep 02 02:24:31 host12 kernel: WARNING: System call latency high
+Sep 02 03:40:45 host09 kernel: INFO: Kernel event queue initialized
+Sep 02 04:53:17 host05 kernel: DEBUG: Low power mode enabled
+Sep 02 05:11:58 host07 kernel: FATAL: Kernel debugging triggered
+Sep 02 06:25:32 host17 kernel: ERROR: Memory page allocation failed
+Sep 02 07:38:47 host30 kernel: WARNING: Out of inodes on filesystem
+Sep 02 08:40:29 host04 kernel: INFO: Kernel command line processed
+Sep 02 09:53:18 host23 kernel: DEBUG: Kernel entropy pool drained
+Sep 02 10:10:27 host08 kernel: FATAL: Kernel rebooting unexpectedly
+Sep 02 11:22:14 host16 kernel: ERROR: Kernel task scheduling issue
+Sep 02 12:35:07 host18 kernel: WARNING: Kernel symbol table missing
+Sep 02 13:44:35 host10 kernel: INFO: Kernel core dumped
+Sep 02 14:55:08 host15 kernel: DEBUG: Kernel timer expired
+Sep 02 15:09:11 host24 kernel: FATAL: Kernel task failed
+Sep 02 16:18:27 host29 kernel: ERROR: Kernel virtual memory exhausted
+Sep 02 17:31:46 host13 kernel: WARNING: Kernel memory leak detected
+Sep 02 18:45:03 host03 kernel: INFO: Kernel network stack initialized
+Sep 02 19:55:29 host22 kernel: DEBUG: Kernel process ID 4321 created
+Sep 02 20:10:35 host12 kernel: FATAL: Kernel deadlock detected
+Sep 02 21:25:48 host20 kernel: ERROR: Kernel timer failed
+Sep 02 22:38:15 host06 kernel: WARNING: Kernel CPU throttling active
+Sep 02 23:50:21 host26 kernel: INFO: Kernel page cache flushed
+Sep 03 00:05:37 host14 kernel: DEBUG: Kernel memory allocation successful
+Sep 03 01:14:42 host19 kernel: FATAL: Unable to initialize disk subsystem
+Sep 03 02:28:03 host11 kernel: ERROR: PCI device initialization failed
+Sep 03 03:35:18 host17 kernel: WARNING: Network packet loss detected
+Sep 03 04:46:56 host07 kernel: INFO: Kernel swap space extended
+Sep 03 05:59:39 host22 kernel: DEBUG: Kernel interrupt handler installed
+Sep 03 06:18:15 host05 kernel: FATAL: Kernel page fault in non-paged area
+Sep 03 07:30:47 host16 kernel: ERROR: Kernel power state transition failure
+Sep 03 08:44:08 host21 kernel: WARNING: Kernel module signature mismatch
+Sep 03 09:53:32 host04 kernel: INFO: Kernel crash dump saved
+Sep 03 10:11:39 host27 kernel: DEBUG: Kernel module unloaded
+Sep 03 11:25:52 host13 kernel: FATAL: Kernel I/O error on boot device
+Sep 03 12:38:06 host29 kernel: ERROR: Kernel firmware loading failed
+Sep 03 13:49:24 host12 kernel: WARNING: Kernel buffer overflow detected
+Sep 03 14:59:37 host03 kernel: INFO: Kernel profiling enabled
+Sep 03 16:15:48 host24 kernel: DEBUG: Kernel page table entries updated
+Sep 03 17:29:01 host02 kernel: FATAL: Kernel root partition not found
+Sep 03 18:42:21 host30 kernel: ERROR: Kernel DMA engine error
+Sep 03 19:53:33 host18 kernel: WARNING: Kernel process blocked for too long
+Sep 03 20:12:58 host06 kernel: INFO: Kernel swap file activated
+Sep 03 21:28:44 host15 kernel: DEBUG: Kernel dynamic linker initialized
+Sep 03 22:43:57 host25 kernel: FATAL: Kernel panic due to CPU error
+Sep 03 23:59:12 host08 kernel: ERROR: Kernel virtual address space full
+Sep 04 00:15:23 host20 kernel: WARNING: Kernel high memory usage detected
+Sep 04 01:28:38 host10 kernel: INFO: Kernel device driver reloaded
+Sep 04 02:42:57 host07 kernel: DEBUG: Kernel softirq processing latency high
+Sep 04 03:57:16 host14 kernel: FATAL: Kernel heap memory corruption detected
+Sep 04 05:10:32 host22 kernel: ERROR: Kernel page table initialization failed
+Sep 04 06:24:48 host13 kernel: WARNING: Kernel resource allocation failure
+Sep 04 07:39:07 host03 kernel: INFO: Kernel session leader changed
+Sep 04 08:52:24 host28 kernel: DEBUG: Kernel file system check passed
+Sep 04 10:05:39 host19 kernel: FATAL: Kernel memory allocation failed
+Sep 04 11:19:59 host04 kernel: ERROR: Kernel buffer underflow detected
+Sep 04 12:34:12 host18 kernel: WARNING: Kernel NMI watchdog triggered
+Sep 04 13:48:27 host15 kernel: INFO: Kernel hotplug subsystem initialized
+Sep 04 15:02:39 host26 kernel: DEBUG: Kernel thread creation successful
+Sep 04 16:17:55 host09 kernel: FATAL: Kernel execution stack overflow
+Sep 04 17:32:08 host06 kernel: ERROR: Kernel page cache invalidation failed
+Sep 04 18:46:25 host25 kernel: WARNING: Kernel low memory threshold reached
+Sep 04 19:59:41 host23 kernel: INFO: Kernel soft lockup detected
+Sep 04 21:13:55 host17 kernel: DEBUG: Kernel keyring allocation successful
+Sep 04 22:28:09 host08 kernel: FATAL: Kernel spinlock acquisition failed
+Sep 04 23:42:27 host11 kernel: ERROR: Kernel heap fragmentation detected
+Sep 05 00:55:43 host30 kernel: WARNING: Kernel watchdog reset triggered
+Sep 05 02:09:59 host27 kernel: INFO: Kernel SELinux enforcement enabled
+Sep 05 03:24:12 host12 kernel: DEBUG: Kernel kexec initiated
+Sep 05 04:38:25 host16 kernel: FATAL: Kernel bug detected in driver module
+Sep 05 05:52:43 host02 kernel: ERROR: Kernel virtual memory exhausted
+Sep 05 07:06:59 host21 kernel: WARNING: Kernel priority inversion detected
+Sep 05 08:21:15 host24 kernel: INFO: Kernel I/O subsystem initialized
+Sep 05 09:35:31 host20 kernel: DEBUG: Kernel block I/O scheduler enabled
+Sep 05 10:49:49 host14 kernel: FATAL: Kernel page allocation failure
+Sep 05 12:03:02 host04 kernel: ERROR: Kernel thread stack corruption
+Sep 05 13:17:19 host10 kernel: WARNING: Kernel softirq starvation detected
+Sep 05 14:31:31 host13 kernel: INFO: Kernel watchdog timer initialized
+Sep 05 15:45:45 host19 kernel: DEBUG: Kernel oops in interrupt handler
+Sep 05 16:59:58 host03 kernel: FATAL: Kernel lockup due to resource contention
+Sep 05 18:14:16 host05 kernel: ERROR: Kernel misaligned access detected
+Sep 05 19:28:29 host23 kernel: WARNING: Kernel scheduling latency high
+Sep 05 20:42:47 host22 kernel: INFO: Kernel live patching applied
+Sep 05 21:56:59 host29 kernel: DEBUG: Kernel memory cgroup updated
+Sep 05 23:11:15 host17 kernel: FATAL: Kernel recursion depth exceeded
+Sep 06 00:25:29 host30 kernel: ERROR: Kernel spinlock contention detected
+Sep 06 01:39:44 host06 kernel: WARNING: Kernel perf event buffer overflow
+Sep 06 02:53:58 host18 kernel: INFO: Kernel socket buffer reallocation
+Sep 06 04:08:13 host27 kernel: DEBUG: Kernel power event handler registered
+Sep 06 05:22:29 host08 kernel: FATAL: Kernel thread deadlock detected
+Sep 06 06:36:47 host10 kernel: ERROR: Kernel physical memory address fault
+Sep 06 07:51:01 host14 kernel: WARNING: Kernel nohz mode activated
+Sep 06 09:05:17 host12 kernel: INFO: Kernel module parameters updated
+Sep 06 10:19:35 host02 kernel: DEBUG: Kernel interrupt routing successful
+Sep 06 11:33:48 host15 kernel: FATAL: Kernel out of file descriptors
+Sep 06 12:48:05 host05 kernel: ERROR: Kernel packet drop detected
+Sep 06 14:02:19 host11 kernel: WARNING: Kernel page cache inconsistency detected
+Sep 06 15:16:35 host26 kernel: INFO: Kernel ext4 file system mounted
+Sep 06 16:30:51 host17 kernel: DEBUG: Kernel I/O path latency measured
+Sep 06 17:45:07 host13 kernel: FATAL: Kernel page table update failure
+Sep 06 18:59:22 host07 kernel: ERROR: Kernel TLB shootdown timeout
+Sep 06 20:13:37 host03 kernel: WARNING: Kernel spinlock held too long
+Sep 06 21:27:52 host29 kernel: INFO: Kernel system call filter loaded
+Sep 06 22:42:09 host16 kernel: DEBUG: Kernel perf event interrupt recorded
+Sep 06 23:56:25 host09 kernel: FATAL: Kernel page fault protection triggered
+Sep 07 01:10:38 host19 kernel: ERROR: Kernel I/O buffer overflow
+Sep 07 02:24:54 host27 kernel: WARNING: Kernel DPC watchdog violation
+Sep 07 03:39:10 host21 kernel: INFO: Kernel process forked successfully
+Sep 07 04:53:27 host14 kernel: DEBUG: Kernel swap partition activated
+Sep 07 06:07:42 host18 kernel: FATAL: Kernel stack corruption detected
+Sep 07 07:21:56 host22 kernel: ERROR: Kernel packet loss due to buffer overrun
+Sep 07 08:36:10 host05 kernel: WARNING: Kernel CPU soft lockup
+Sep 07 09:50:27 host17 kernel: INFO: Kernel trap handler registered
+Sep 07 11:04:42 host11 kernel: DEBUG: Kernel SMP affinity set successfully
+Sep 07 12:18:59 host28 kernel: FATAL: Kernel task blocked for too long
+Sep 07 13:33:14 host20 kernel: ERROR: Kernel interrupt remapping failed
+Sep 07 14:47:29 host03 kernel: WARNING: Kernel packet reordering detected
+Sep 07 16:01:44 host16 kernel: INFO: Kernel perf counters initialized
+Sep 07 17:15:59 host04 kernel: DEBUG: Kernel function tracing started
+Sep 07 18:30:13 host26 kernel: FATAL: Kernel execution context corrupted
+Sep 07 19:44:27 host06 kernel: ERROR: Kernel command line parameter invalid
+Sep 07 20:58:42 host10 kernel: WARNING: Kernel slab cache memory low
+Sep 07 22:12:56 host14 kernel: INFO: Kernel page faults reduced
+Sep 07 23:27:11 host30 kernel: DEBUG: Kernel debugfs entries created
+Sep 08 00:41:26 host13 kernel: FATAL: Kernel stack smashing detected
+Sep 08 01:55:41 host19 kernel: ERROR: Kernel spinlock contention excessive
+Sep 08 03:09:55 host08 kernel: WARNING: Kernel softirq processing delayed
+Sep 08 04:24:11 host09 kernel: INFO: Kernel process exited with code 0
+Sep 08 05:38:26 host25 kernel: DEBUG: Kernel per-CPU data structure updated
+Sep 08 06:52:40 host07 kernel: FATAL: Kernel thread not responding
+Sep 08 08:06:55 host12 kernel: ERROR: Kernel scheduler preemption failure
+Sep 08 09:21:10 host22 kernel: WARNING: Kernel high memory pressure
+Sep 08 10:35:24 host18 kernel: INFO: Kernel network namespace created
+Sep 08 11:49:40 host06 kernel: DEBUG: Kernel task switch latency improved
+Sep 08 13:03:54 host11 kernel: FATAL: Kernel failed to reserve memory region
+Sep 08 14:18:09 host17 kernel: ERROR: Kernel inode allocation failure
+Sep 08 15:32:23 host29 kernel: WARNING: Kernel DPC routine executed too long
+Sep 08 16:46:39 host15 kernel: INFO: Kernel NFS client initialized
+Sep 08 18:00:54 host03 kernel: DEBUG: Kernel memory allocator optimized
+Sep 08 19:15:09 host10 kernel: FATAL: Kernel panic due to watchdog timeout
+Sep 08 20:29:25 host19 kernel: ERROR: Kernel event log buffer overflow
+Sep 08 21:43:40 host27 kernel: WARNING: Kernel clock drift detected
+Sep 08 22:57:54 host05 kernel: INFO: Kernel IP forwarding enabled
+Sep 09 00:12:09 host23 kernel: DEBUG: Kernel timer resolution adjusted
+Sep 09 01:26:23 host30 kernel: FATAL: Kernel page table corruption detected
+Sep 09 02:40:39 host14 kernel: ERROR: Kernel SMP bootup failed
+Sep 09 03:54:54 host08 kernel: WARNING: Kernel event handler delay detected
+Sep 09 05:09:09 host28 kernel: INFO: Kernel swapper process priority lowered
+Sep 09 06:23:23 host13 kernel: DEBUG: Kernel watchdog timeout increased
+Sep 09 07:37:38 host26 kernel: FATAL: Kernel memory zone exhausted
+Sep 09 08:51:52 host11 kernel: ERROR: Kernel high-order memory allocation failed
+Sep 09 10:06:07 host09 kernel: WARNING: Kernel PCI bus error detected
+Sep 09 11:20:21 host17 kernel: INFO: Kernel SCSI subsystem initialized
+Sep 09 12:34:36 host22 kernel: DEBUG: Kernel early exception handler registered
+Sep 09 13:48:51 host04 kernel: FATAL: Kernel timer expired too soon
+Sep 09 15:03:05 host21 kernel: ERROR: Kernel IRQ routing table corrupted
+Sep 09 16:17:20 host15 kernel: WARNING: Kernel signal handling delayed
+Sep 09 17:31:34 host03 kernel: INFO: Kernel execve system call successful
+Sep 09 18:45:49 host07 kernel: DEBUG: Kernel page writeback delayed
+Sep 09 19:59:58 host30 kernel: FATAL: Kernel task scheduling error
+Sep 09 21:14:13 host19 kernel: ERROR: Kernel I/O bandwidth exceeded
+Sep 09 22:28:28 host14 kernel: WARNING: Kernel filesystem full
+Sep 09 23:42:42 host06 kernel: INFO: Kernel softirq timer adjusted
